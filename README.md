@@ -1,0 +1,16 @@
+# Todo App
+- A modern todo application that helps users organize and manage daily tasks efficiently.
+- ## Features
+- Add new tasks
+- Update task dates
+- Mark tasks as completed
+- Delete tasks
+- Responsive design
+- Clean and modern UI
+- Simple and user-friendly interface
+- ## Technology Used
+- HTML
+- CSS
+- JavaScript
+- ## Author
+- Austine 
